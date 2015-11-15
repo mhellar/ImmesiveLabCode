@@ -1,0 +1,3 @@
+ofxHapPlayer
+ofxOsc
+ofxSyphon

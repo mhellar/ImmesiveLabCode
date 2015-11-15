@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/testApp.h"
+            timestampString = "469261499.818846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "point::point()"
+                  moduleName = "immersive2Debug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markhellar/Documents/of_v0.9.0_osx_release/apps/myApps/immersive2/src/testApp.h"
+                  timestampString = "469261860.686415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "point::~point()"
+                  moduleName = "immersive2Debug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markhellar/Documents/of_v0.9.0_osx_release/apps/myApps/immersive2/src/testApp.h"
+                  timestampString = "469261860.686937"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "point::~point()"
+                  moduleName = "immersive2Debug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markhellar/Documents/of_v0.9.0_osx_release/apps/myApps/immersive2/src/testApp.h"
+                  timestampString = "469261860.687319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "point::point()"
+                  moduleName = "immersive2Debug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markhellar/Documents/of_v0.9.0_osx_release/apps/myApps/immersive2/src/testApp.h"
+                  timestampString = "469261860.68758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
